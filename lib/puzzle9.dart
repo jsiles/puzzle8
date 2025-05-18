@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:math';
 
-void main() => runApp(const MaterialApp(home: Home()));
-
 class Home extends StatefulWidget {
   const Home({super.key});
 
